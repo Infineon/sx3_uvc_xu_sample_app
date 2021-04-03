@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  UVCExtensionApp.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UVCExtensionApp.vcxproj -> C:\Users\PCHariprasad\Work\Workspace\apps\DCD\SAVJ\UVC Host Apps\UVCExtensionApp_SX3\Release\UVCExtensionApp.exe
